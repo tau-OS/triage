@@ -1,4 +1,4 @@
-# Code of Conduct for tauOS Contributors
+# Code of Conduct for Fyra Labs Projects
 
 ## 0. External Contributors and Employees
 
@@ -6,11 +6,11 @@ Employees of Fyra Labs may be held to a higher standard than outlined by this do
 
 ## 1. Purpose
 
-A major goal of The tauOS Project is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A major goal of Fyra Labs is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in the tauOS Community to help us create safe and positive experiences for everyone.
+We invite all those who participate in this community to help us create safe and positive experiences for everyone.
 
 ## 2. Open [Source/Culture/Tech] Citizenship
 
@@ -63,7 +63,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 If you are subject to or witness unacceptable behavior from employees of Fyra Labs, or have any other concerns, please use the [External Human Resources Form](https://airtable.com/shrCMi4X3Xp3ITMJz)
 
-If you are subject to or witness unacceptable behavior from other members of the tauOS community, or have any other concerns, you should email [Fyra Labs Contact](mailto:contact@fyralabs.com).
+If you are subject to or witness unacceptable behavior from other members of this community, or have any other concerns, you should email [Fyra Labs Contact](mailto:contact@fyralabs.com).
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
@@ -79,8 +79,9 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-[Legal Email](mailto:contact@fyralabs.com)
-[tauOS Contact](mailto:contact@tauos.co)
+[Legal Email](mailto:legal@fyralabs.com)
+
+
 [Jaiden Riordan, Product Lead](mailto:jade@fyralabs.com)
 
 ## 11. License and attribution
